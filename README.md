@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🐱, I'm Chamadi Himaya</h1>
-<h3 align="center">I'm a Data Science undergraduate student</h3>
+<h3 align="center">I'm an undergraduate student</h3>
 
 - 🤖I'm learning **Data Science**
 
