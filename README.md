@@ -7,7 +7,7 @@
 
 - 💕I'm interested in **data analytics, data mining, artificial intelligence and machine learning**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFBzdOvj68/O2wG0M-FXVuAv5OfqpP_8w/view?utm_content=DAFBzdOvj68&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFBzdOvj68/O2wG0M-FXVuAv5OfqpP_8w/view?utm_content=DAFBzdOvj68&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
