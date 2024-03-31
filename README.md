@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🐱, I'm Chamadi Himaya</h1>
-<h3 align="center">I'm an undergraduate student</h3>
+<h3 align="center">I'm 
+  
+</h3>
 
-- 🤖I'm learning **Data Science**
-
-- 📈I'm currently working as a **Data Analyst Trainee**
+- 🤖I'm a **Data Science Graduate**
 
 - 💕I'm interested in **data analytics, data mining, artificial intelligence and machine learning**
 
